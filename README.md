@@ -1,1 +1,1 @@
-#These are Web Application Development Practicals.
+These are Web Application Development Practicals.
